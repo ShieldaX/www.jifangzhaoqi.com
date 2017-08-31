@@ -66,9 +66,4 @@
 		</ul>
 	</div>
 	<div class="hr grid_12 clearfix">&nbsp;</div>
-	<!-- Footer -->
-	<p class="grid_12 footer clearfix"> <span class="float"><strong>Design By</strong> QwibbleDesigns&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Code By</strong> <a href="http://www.ludou.org/">Ludou</a></span> <a class="float right" href="#">top</a> </p>
-</div>
-<!--end wrapper-->
-</body>
-</html>
+<?php get_footer(); ?>

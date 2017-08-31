@@ -17,19 +17,25 @@
 	} ?></title>
 <!-- Stylesheets -->
 <link rel="stylesheet" href="<?php bloginfo('stylesheet_url') ?>" type="text/css" media="screen" />
+<?php wp_head(); ?>
 </head>
+<?php flush(); ?>
 <body>
 <div id="wrapper" class="container_12 clearfix">
 	<!-- Text Logo -->
 	<h1 id="logo" class="grid_4"><a href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a></h1>
 	<!-- Navigation Menu -->
-	<ul id="navigation" class="grid_8">
+<!-- 	<ul id="navigation" class="grid_8">
 		<li><a href="contact.html"><span class="meta">Get in touch</span><br />
 			Contact Us</a></li>
 		<li><a href="blog.html" class="current"><span class="meta">Latest news</span><br />
 			Blog</a></li>
 		<li><a href="index.html"><span class="meta">Homepage</span><br />
 			Home</a></li>
+	</ul> -->
+	<ul id="navigation" class="grid_8">
+	<?php wp_list_pages('depth=1&title_li=0&sort_column=menu_order'); ?>
+	<li <?php if (is_home()) { echo 'class="current"';} ?>><a title="<?php bloginfo('name'); ?>"  href="<?php echo get_option('home'); ?>/">主页</a></li>
 	</ul>
 	<div class="hr grid_12 clearfix"> </div>
 	<!-- Caption Line -->
