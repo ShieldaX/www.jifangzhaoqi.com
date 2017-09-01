@@ -1,0 +1,818 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#. Text in function
+#: pe-beauty-center/functions/send-email.php:1
+msgid " via email, "
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/404.php:103
+msgid "\"Sorry, it appears the page you were looking for doesnt exist anymore or might have been moved. <br /> Please try your luck again.\""
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/comments.php:26
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/page-contact.php:66
+msgid "* Please provide a valid email address"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/page-contact.php:76
+msgid "* Please provide your message"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/page-contact.php:61
+msgid "* Please provide your name"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/404.php:101
+msgid "404 OOPS!"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/comments.php:34
+msgid "<b>Comment</b> ( * )"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/single.php:89
+msgid "About Author"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/option-tree.php:1
+msgid "Add Image"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/archive.php:1
+msgid "All Posts By"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/archive.php:1
+msgid "All Posts in Category"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/archive.php:1
+msgid "All Posts in Tag"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+#: pe-beauty-center/functions/class-tgm-plugin-activation-options.php:1
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/archive.php:1
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:1
+#: pe-beauty-center/tpl/bottom.php:13
+msgid "Bottom"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:297
+msgid "Carousel View"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:1
+#: pe-beauty-center/tpl/comingsoon.php:53
+msgid "ComingSoon"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/comments.php:34
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/comments.php:25
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/comments.php:32
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/page.php:89 pe-beauty-center/page-rtl.php:173
+#: pe-beauty-center/functions/base-functions.php:1
+#: pe-beauty-center/page-faqs.php:62 pe-beauty-center/single-member.php:130
+#: pe-beauty-center/page-left-content.php:122 pe-beauty-center/single.php:139
+#: pe-beauty-center/index.php:52 pe-beauty-center/single-service.php:73
+#: pe-beauty-center/page-content-left-right.php:120
+#: pe-beauty-center/search.php:58 pe-beauty-center/page-contact.php:121
+#: pe-beauty-center/page-full-width.php:108
+#: pe-beauty-center/page-services.php:76
+#: pe-beauty-center/page-left-content-right.php:134
+#: pe-beauty-center/page-content-right.php:116
+#: pe-beauty-center/page-left-right-content.php:129
+#: pe-beauty-center/archive.php:98 pe-beauty-center/single-faqs.php:80
+#: pe-beauty-center/single-testimonial.php:93
+msgid "Content Bottom"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/page.php:24 pe-beauty-center/page-rtl.php:108
+#: pe-beauty-center/functions/base-functions.php:1
+#: pe-beauty-center/page-faqs.php:29 pe-beauty-center/single-member.php:33
+#: pe-beauty-center/page-left-content.php:46 pe-beauty-center/single.php:24
+#: pe-beauty-center/index.php:25 pe-beauty-center/single-service.php:26
+#: pe-beauty-center/page-content-left-right.php:44
+#: pe-beauty-center/search.php:26 pe-beauty-center/page-contact.php:38
+#: pe-beauty-center/page-full-width.php:32
+#: pe-beauty-center/page-services.php:33
+#: pe-beauty-center/page-left-content-right.php:58
+#: pe-beauty-center/page-content-right.php:40
+#: pe-beauty-center/page-left-right-content.php:62
+#: pe-beauty-center/archive.php:68 pe-beauty-center/single-faqs.php:24
+#: pe-beauty-center/single-testimonial.php:26
+msgid "Content Top"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:173
+msgid "Custom Widget Classes"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+msgid "Dismiss this notice"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/includes/widgets/pe-testimonial-carousel-widget.php:9
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:9
+msgid "Display Team Members carousel."
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/includes/widgets/pe-contact-widget.php:9
+msgid "Displays Contact information from Theme Options."
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/includes/widgets/pe-social-widget.php:9
+msgid "Displays Social Icons from Theme Options."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/single-member.php:95
+msgid "E-mail"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/tpl/posts-for-listing.php:23
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/single.php:58 pe-beauty-center/single-faqs.php:49
+msgid "Edit Post"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/comments.php:34 pe-beauty-center/page-contact.php:65
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/page-contact.php:65
+msgid "Email address for contact"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:173
+msgid "End"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:173
+msgid "Enter Question here"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/page-contact.php:70
+msgid "Enter the subject of your message here."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/page-contact.php:75
+msgid "Enter your message here."
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:1 pe-beauty-center/404.php:139
+#: pe-beauty-center/footer.php:37
+msgid "Footer"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/404.php:115
+msgid "Go back home"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:298
+msgid "Grid View"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:1
+#: pe-beauty-center/tpl/header-section.php:11
+msgid "Header"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/tpl/breadcrumbs.php:14
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+#: pe-beauty-center/functions/class-tgm-plugin-activation-options.php:1
+msgid "Install Plugins"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+#: pe-beauty-center/functions/class-tgm-plugin-activation-options.php:1
+msgid "Install Required Plugins"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+#: pe-beauty-center/functions/class-tgm-plugin-activation-options.php:1
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/send-email.php:1
+msgid "Invalid Request !"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:305
+msgid "Large Image"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/comments.php:34
+msgid "Leave Comment"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:1
+#: pe-beauty-center/page-left-content.php:132
+#: pe-beauty-center/page-content-left-right.php:130
+#: pe-beauty-center/sidebar.php:16
+#: pe-beauty-center/page-left-content-right.php:144
+#: pe-beauty-center/page-left-right-content.php:139
+msgid "Left Sidebar"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/comments.php:34
+msgid "Log Out"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:1
+msgid "Main Menu"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:317
+msgid "Member description limit"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/page-contact.php:75
+msgid "Message"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/send-email.php:1
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/comments.php:34 pe-beauty-center/page-contact.php:60
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/send-email.php:1
+msgid "New message sent by"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/comments.php:27
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:173
+msgid "Next"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/tpl/faqs-accordion.php:57
+msgid "No FAQs Found!"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:250
+msgid "No Members Found!"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/loop.php:62
+msgid "No Posts Found!"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/tpl/services-right.php:155
+#: pe-beauty-center/tpl/services-top.php:146
+#: pe-beauty-center/tpl/services-left.php:154
+#: pe-beauty-center/tpl/services-bottom.php:148
+msgid "No Services Found!"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-testimonial-carousel-widget.php:115
+msgid "No Testimonials Found!"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+#: pe-beauty-center/functions/class-tgm-plugin-activation-options.php:1
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:309
+msgid "Number of Members"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:313
+msgid "Number of Members in Row"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-testimonial-carousel-widget.php:156
+msgid "Number of testimonials to show"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:1
+#: pe-beauty-center/tpl/offcanvas.php:18
+msgid "Off-canvas Sidebar"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/option-tree.php:1
+msgid "PE Beauty Center - by Pixelemu.com"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/includes/widgets/pe-contact-widget.php:9
+msgid "PE Contact"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/includes/widgets/pe-social-widget.php:9
+msgid "PE Social Icons"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:9
+msgid "PE Team Carousel"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/includes/widgets/pe-testimonial-carousel-widget.php:9
+msgid "PE Testimonial Carousel"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/page.php:56 pe-beauty-center/page-rtl.php:140
+#: pe-beauty-center/page-left-content.php:91 pe-beauty-center/single.php:75
+#: pe-beauty-center/page-content-left-right.php:89
+#: pe-beauty-center/page-contact.php:94 pe-beauty-center/page-full-width.php:77
+#: pe-beauty-center/page-left-content-right.php:103
+#: pe-beauty-center/page-content-right.php:85
+#: pe-beauty-center/page-left-right-content.php:102
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/single-member.php:91
+msgid "Phone"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/option-tree.php:1
+msgid "Pixelemu.com"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+#: pe-beauty-center/functions/class-tgm-plugin-activation-options.php:1
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+#: pe-beauty-center/functions/class-tgm-plugin-activation-options.php:1
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+#: pe-beauty-center/functions/class-tgm-plugin-activation-options.php:1
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/single.php:49 pe-beauty-center/tpl/posts-for-listing.php:15
+#: pe-beauty-center/single-faqs.php:48
+msgid "Posted on"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:173
+msgid "Prev"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/send-email.php:1
+msgid "Provided Email address is invalid!"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:173
+msgid "Read more..."
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+#: pe-beauty-center/functions/class-tgm-plugin-activation-options.php:1
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+msgid "Return to the dashboard"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:1
+#: pe-beauty-center/page-content-left-right.php:136
+#: pe-beauty-center/sidebar.php:24
+#: pe-beauty-center/page-left-content-right.php:150
+#: pe-beauty-center/page-content-right.php:126
+#: pe-beauty-center/page-left-right-content.php:145
+msgid "Right Sidebar"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/404.php:110
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/404.php:109
+msgid "Search ...:"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/search.php:40
+msgid "Search Results For"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/404.php:109
+msgid "Search for:"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:295
+msgid "Select View"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:302
+msgid "Select image size"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/page-contact.php:80
+msgid "Send Email"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/send-email.php:1
+msgid "Server Error: WordPress mail function failed!"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-contact-widget.php:95
+msgid "Show Email Address."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-social-widget.php:131
+msgid "Show Facebook Icon."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-social-widget.php:139
+msgid "Show Google+ Icon."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-social-widget.php:143
+msgid "Show LinkedIn Icon."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:334
+msgid "Show Member Avatar."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:338
+msgid "Show Member Description."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:326
+msgid "Show Member Name."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:330
+msgid "Show Member Profession."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-social-widget.php:147
+msgid "Show Pinterest Icon."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-social-widget.php:151
+msgid "Show Skype Icon."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:322
+msgid "Show Social Icons."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-social-widget.php:135
+msgid "Show Twitter Icon."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-social-widget.php:155
+msgid "Show Vimeo Icon."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-contact-widget.php:99
+msgid "Show Visit Us link."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-testimonial-carousel-widget.php:167
+msgid "Show/Hide Testimonial Occupation."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:304
+msgid "Small Image"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+#: pe-beauty-center/functions/class-tgm-plugin-activation-options.php:1
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:173
+msgid "Start"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/page-contact.php:70
+msgid "Subject"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/send-email.php:1
+msgid "Subject : "
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/comments.php:34
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/single.php:104
+msgid "Tags:"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/send-email.php:1
+msgid "Target Email address is not properly configured!"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-testimonial-carousel-widget.php:161
+msgid "Testimonial opinion limit"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+#: pe-beauty-center/functions/class-tgm-plugin-activation-options.php:1
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/send-email.php:1
+msgid "Their additional message is as follows."
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/tpl/top-bar.php:58
+msgid "Toggle navigation"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:1
+#: pe-beauty-center/tpl/top.php:13
+msgid "Top"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/base-functions.php:1
+#: pe-beauty-center/tpl/top-bar.php:21
+msgid "Top Bar"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/send-email.php:1
+msgid "Unverified Nonce!"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/class-tgm-plugin-activation.php:1
+msgid "Update Required"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/single.php:53 pe-beauty-center/single.php:92
+#: pe-beauty-center/tpl/posts-for-listing.php:18
+msgid "View all posts by %s"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-contact-widget.php:106
+msgid "Visit Us Link <small class=\"description\">(Example: http://pixelemu.com)</small>"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-contact-widget.php:102
+msgid "Visit Us Text"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/comments.php:34
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-contact-widget.php:90
+#: pe-beauty-center/functions/includes/widgets/pe-social-widget.php:126
+#: pe-beauty-center/functions/includes/widgets/pe-testimonial-carousel-widget.php:151
+#: pe-beauty-center/functions/includes/widgets/pe-team-carousel-widget.php:291
+msgid "Widget Title"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/404.php:167 pe-beauty-center/footer.php:65
+msgid "WordPress Theme"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/comments.php:34
+msgid "You are logged in as %1$s. %2$sLog out %3$s"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/send-email.php:1
+msgid "You can contact "
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/send-email.php:1
+msgid "You have received a message from: "
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/page-contact.php:60
+msgid "Your name"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/single.php:51 pe-beauty-center/tpl/posts-for-listing.php:16
+msgid "by"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/404.php:167 pe-beauty-center/footer.php:65
+msgid "by Pixelemu.com"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/tpl/comingsoon.php:61
+msgid "days"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/functions/includes/widgets/pe-contact-widget.php:49
+#: pe-beauty-center/sidebar-contact.php:34
+msgid "e-mail"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/tpl/comingsoon.php:66
+msgid "hours"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/single.php:57 pe-beauty-center/tpl/posts-for-listing.php:22
+msgid "in"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/tpl/comingsoon.php:71
+msgid "minutes"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/404.php:102
+msgid "page Not found!"
+msgstr ""
+
+#. Text in echo
+#: pe-beauty-center/tpl/comingsoon.php:76
+msgid "seconds"
+msgstr ""
+
+#. Text in function
+#: pe-beauty-center/functions/send-email.php:1
+msgid "using contact form at"
+msgstr ""

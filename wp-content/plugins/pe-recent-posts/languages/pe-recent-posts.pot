@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "ASC"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "All Taxonomy Items"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Bullets"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Creation Date"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "DESC"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Description Limit (chars)"
+msgstr ""
+
+#. Text in function
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Entered <strong>Post Type Taxonomy</strong> does not belong to <strong>Post Type</strong>."
+msgstr ""
+
+#. Text in function
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Entered <strong>Post Type Taxonomy</strong> does not exist."
+msgstr ""
+
+#. Text in function
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Entered <strong>Post Type</strong> and <strong>Post Type Taxonomy</strong> does not exist."
+msgstr ""
+
+#. Text in function
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Entered <strong>Post Type</strong> does not exist."
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Entered Post Type Taxonomy is wrong."
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Force display sticky posts (only for posts)"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Grid Spacing (px)"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "H1"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "H2"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "H3"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "H4"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "H5"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "H6"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Header Tag For Title"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Hide"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Image Alignment"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Image Size"
+msgstr ""
+
+#. Text in function
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "MISC Posts"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Most commented"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Most read"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Navigation"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "No"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "None"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Number of all items"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Number of items in row"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Number of rows"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Order Direction"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Ordering"
+msgstr ""
+
+#. Text in function
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "PE Recent Posts"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Post Type"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Post Type Taxonomy"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Post Type Taxonomy is empty."
+msgstr ""
+
+#. Text in function
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Read more"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Readmore"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Show"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Show Thumbnail"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Show above title"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Show below title"
+msgstr ""
+
+#. Text in function
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Show recent posts."
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Taxonomy (empty taxonomy items are not displayed)"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "Yes"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "bottom"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "large"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "left"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "medium"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "right"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "thumbnail"
+msgstr ""
+
+#. Text in echo
+#: pe-recent-posts/pe-recent-posts.php:
+msgid "top"
+msgstr ""
